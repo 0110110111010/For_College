@@ -1,0 +1,118 @@
+body{
+	background-color: #e3ded3;
+}
+
+
+main{
+margin: 0;
+color: #333;
+line-height: 1.6;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
+
+
+@font-face {
+	font-family: "Bebas Neue"; 
+	src: url("../Fonts/BebasNeue Bold.ttf") format("truetype"); 
+	font-style: normal;
+	font-weight: normal;
+}
+
+.link_head{
+	text-align: right;
+	margin-top: 30px;
+	margin-right: 10px;
+}
+
+
+.logo{
+	text-decoration: none;
+	position: absolute;
+	width: 50px;
+	height: 27px;
+	left: 22.89px;
+	top: 24.8px;
+
+
+	font-family: 'Bebas Neue';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22.8889px;
+	line-height: 27px;
+	color: #000;
+}
+
+
+.nav_head{
+	text-decoration: none;
+	color: black;
+	margin-right: 10px;
+}
+
+
+.nav_headd{
+	text-decoration: none;
+	color: green;
+	margin-right: 10px;
+}
+
+
+.nav_head_glav{
+	text-decoration: none;
+	color: #a00000;
+	margin-right: 10px;
+}
+
+.nav_head_cart{
+	text-decoration: none;
+	color: green;
+	margin-right: 10px;
+}
+.nav_headnav_head_cart{
+	text-decoration: none;
+	color: black;
+	background:
+	 url("../Internet_Market/Resurces/Images/cart.png") center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;	
+}
+
+
+
+/* block index */ 
+
+.block_index{
+	margin-top: 20px;
+	margin-left: 100px;
+	height: 70%;
+	background-color: white;
+	border-radius: 10px;
+	margin-right: 100px ;
+}
+.block_index_head{
+	width: 93%;
+	margin-top: 30px;
+	margin-left: 30px;
+	height: 70%;
+	color: #1578B2;	
+}
+
+.block_index_author{
+	width: 40%;
+	margin-top: 0px;
+	margin-left: 70px;
+	height: 70%;
+	font-size: 13px;
+	font-style: bold;
+}
+.block_index_info{
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 30px;
+	height: 70%;
+	background-color: white;
+}
