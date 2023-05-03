@@ -85,6 +85,10 @@ h1,h2,h3,h4,h5,h6{
 
 /* block index */ 
 
+.ots{
+	margin-top: 100px;
+}
+
 .block_index{
 	margin-top: 20px;
 	margin-left: 100px;
@@ -116,3 +120,15 @@ h1,h2,h3,h4,h5,h6{
 	height: 70%;
 	background-color: white;
 }
+
+.logo_img{
+	text-decoration: none;
+	position: absolute;
+	width: 120px;
+	height: 105px;
+	left: 190px;
+	top: 10.8px;
+}
+
+
+/* block services  */
