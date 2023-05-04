@@ -143,6 +143,23 @@ h1,h2,h3,h4,h5,h6{
 	left: 190px;
 	top: 10.8px;
 }
+/* block about */ 
+
+.block_about{
+	margin-top: 100px;
+	margin-left: 100px;
+	height: 70%;
+	background-color: white;
+	border-radius: 10px;
+	margin-right: 100px ;
+}
+.block_about_head{
+	width: 93%;
+	margin-top: 30px;
+	margin-left: 30px;
+	height: 70%;
+	color: #1578B2;	
+}
 
 /* block response  */
 
@@ -180,6 +197,46 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /* block services  */
+
+.block_services{
+	margin-top: 100px;
+	margin-left: 100px;
+	height: 70%;
+	background-color: white;
+	border-radius: 10px;
+	margin-right: 100px ;
+}
+.block_services_head{
+	width: 93%;
+	margin-top: 30px;
+	margin-left: 30px;
+	height: 70%;
+	color: #1578B2;	
+}
+
+
+.block_services_info{
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 30px;
+	height: 70%;
+	background-color: white;
+}
+
+.block_services_ocenca{
+	width: 98%;
+	height: 70%;
+	font-size: 13px;
+	font-style: bold;
+	text-align: right;
+}
+
+
+
+
+
+
+
 
 /* block photo  */
 
