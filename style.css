@@ -196,10 +196,11 @@ h1,h2,h3,h4,h5,h6{
 	text-align: right;
 }
 
+
+
 /* block services  */
 
 .block_services{
-	margin-top: 100px;
 	margin-left: 100px;
 	height: 70%;
 	background-color: white;
@@ -223,21 +224,6 @@ h1,h2,h3,h4,h5,h6{
 	background-color: white;
 }
 
-.block_services_ocenca{
-	width: 98%;
-	height: 70%;
-	font-size: 13px;
-	font-style: bold;
-	text-align: right;
-}
-
-
-
-
-
-
-
-
 /* block photo  */
 
 .block_photo{
@@ -255,6 +241,8 @@ h1,h2,h3,h4,h5,h6{
 	background-color: white;
 }
 
+
+
 /* block contacts  */
 
 .block_contacts{
@@ -271,4 +259,17 @@ h1,h2,h3,h4,h5,h6{
 	margin-left: 30px;
 	height: 70%;
 	background-color: white;
+}
+
+
+
+/*block license*/
+
+
+.block_license{
+	margin-top: 100px;
+	
+	border-radius: 10px;
+	margin-left: 39%;
+	margin-right: 30%;
 }
